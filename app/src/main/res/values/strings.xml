@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBlog</string>
+    <string name="password_hint"><font size="15dp">Password</font></string>
+</resources>

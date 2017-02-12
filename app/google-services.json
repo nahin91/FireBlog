@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356373677597",
+    "firebase_url": "https://fireblog-19ef6.firebaseio.com",
+    "project_id": "fireblog-19ef6",
+    "storage_bucket": "fireblog-19ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356373677597:android:e670fec84c60ea05",
+        "android_client_info": {
+          "package_name": "com.tbz.practice.fireblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356373677597-egl642jnap3fjps7hhbtln5879ls36rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdf47KACpFHoxn2HAuTeyAjLqXplceB0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356373677597-egl642jnap3fjps7hhbtln5879ls36rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
